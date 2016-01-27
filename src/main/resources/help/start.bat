@@ -1,0 +1,1 @@
+java -jar JCom_fat.jar
